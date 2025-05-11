@@ -1,4 +1,8 @@
-[![MasterHead](https://www.utkuyurt.com/assets/other/logo.png)](https://www.utkuyurt.com)
+<p align="center">
+  <a href="https://www.utkuyurt.com">
+    <img src="https://github.com/UtkuYURT/UtkuYURT/blob/main/utku-yurt-logo.png" alt="MasterHead" />
+  </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Utku</h1>
 <h3 align="center">Full Stack Web Developer | Computer Engineering</h3>
