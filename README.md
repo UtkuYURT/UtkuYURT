@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Utku</h1>
 <h3 align="center">Full Stack Web Developer | Computer Engineering</h3>
 
-- 👀 I’m interested in **javascript, react, java**
+- 👀 I’m interested in **javascript, react native, java**
 
 - 👨‍💻 All of my projects are available at [utkuyurt.com](utkuyurt.com)
 
