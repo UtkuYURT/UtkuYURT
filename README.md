@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in **javascript, react native, java**
 
-- 👨‍💻 All of my projects are available at [utkuyurt.com](utkuyurt.com)
+- 👨‍💻 All of my projects are available at [utkuyurt.com](https://utkuyurt.com/)
 
 - ✨ My linkedin profile [https://www.linkedin.com/in/utku-yurt/](https://www.linkedin.com/in/utku-yurt/)
 
