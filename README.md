@@ -7,13 +7,13 @@
 <h1 align="center">Hi 👋, I'm Utku</h1>
 <h3 align="center">Full Stack Web Developer | Computer Engineering</h3>
 
-- 👀 I’m interested in **javascript, react native, java**
+- 👀 I’m interested in **javascript, react native, java, .net, react**
 
 - 👨‍💻 All of my projects are available at [utkuyurt.com](https://utkuyurt.com/)
 
 - ✨ My linkedin profile [https://www.linkedin.com/in/utku-yurt/](https://www.linkedin.com/in/utku-yurt/)
 
-- 🌱 I’m currently learning **react, .net**
+- 🌱 I’m currently learning **next.js**
 
 - 📫 How to reach me **utkuyurt28@gmail.com**
 
